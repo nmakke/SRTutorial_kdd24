@@ -1,4 +1,4 @@
-<div class="header">
+<div>
   <h1>Symbolic Regression:<br> A Pathway To Interpretability Towards Automated Scientific Discovery</h1>
 </div>
 
