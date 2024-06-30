@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
   <head>
     <meta charset="UTF-8">
     <meta name="description" content="This is an awesome website">
@@ -83,5 +81,4 @@
       </p>
     </div>
     </body>
-</html>
 
