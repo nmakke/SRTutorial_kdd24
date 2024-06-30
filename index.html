@@ -1,9 +1,32 @@
 <!!DOCSTYLE html>
 <html>
+  .band-header>header {
+  height: 100px;
+  background-color: #1abc9c;
+  display: flex;
+  justify-content: space-between;
+}
+
+.band-header>header h1 {
+  color: white;
+  font-size: 30px;
+  margin: 0;
+  align-self: flex-end; /* put it at the bottom */
+}
+
+.band-header>header img {
+  align-self: flex-start; /* put it at the top */
+}
 <head>
   <title>
     Symbolic Regression: A Pathway to Interpretability Towards Automated Scientific Discovery
   </title>
+  <div class="band-header">
+    <header class="site-header">
+    <h1>Sample Web Application</h1>
+    <img src="https://via.placeholder.com/50x50">
+  </header>
+  </div>
   <body>
     <h1>Symbolic regression</h1>
     <p> Let's explain</p>
