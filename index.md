@@ -1,3 +1,7 @@
+<div style="background-color: rgb(50, 50, 50);">
+  <h1>Symbolic Regression:<br> A Pathway To Interpretability Towards Automated Scientific Discovery</h1>
+</div>
+
 # Symbolic Regression:<br> A Pathway To Interpretability Towards Automated Scinetific Discovery
 ## Tutorial@KDD2024, Sunday, August 25, 10:00 am - 1:00 pm
 
