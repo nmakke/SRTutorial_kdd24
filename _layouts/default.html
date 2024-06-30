@@ -8,6 +8,68 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <style>
+      body{
+        background: #F6F6F6;
+        color:midnightblue;
+        font-size: 16px;
+        margin-left:0.0em;
+        margin-right:0.0em;
+        margin-top:0.0em;
+      }
+      .header{
+        height: 250px;
+        padding: 0.5px;
+        text-align: center;
+        color: white;
+        background: midnightblue;
+        color: #F6F6F6;
+        font-size: 15px;
+        margin:0;
+        border-bottom: 3px solid #cc3300;
+      }
+      .content {
+        padding:20px;
+        }
+      .sidenav {
+        height: 100%;
+        width: 160px;
+        position: absolute;
+        z-index: 1;
+        top: 6em;
+        left: 0;
+        background-color: #F6F6F6;
+        overflow-x: hidden;
+        padding-top: 0px;
+        }
+      .sidenav a {
+        padding: 6px 8px 10px 20px;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: bold;
+        color: midnightblue;
+        display: block;
+      }
+    .sidenav a:hover {
+        color: #f1f1f1;
+        background-color:#cc3300;
+      }
+    .vl {
+      border-left: 1px solid red;
+      height: 500px;
+      position: absolute;
+      left: 17%;
+      margin-left: -3px;
+      margin-top: 20px;
+      top: 10;
+    }
+    .header img {
+      float: left;
+      width: 60px;
+      height: 60px;
+      background:midnightblue; /*#555;*/
+    }
+    </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
