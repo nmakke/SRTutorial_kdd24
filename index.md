@@ -1,8 +1,7 @@
-<div style="background-color: midnightblue; margin-left:0.0em; margin-right: 0.0em; color = white">
+<div>
   <h1>Symbolic Regression:<br> A Pathway To Interpretability Towards Automated Scientific Discovery</h1>
 </div>
 
-# Symbolic Regression:<br> A Pathway To Interpretability Towards Automated Scinetific Discovery
 ## Tutorial@KDD2024, Sunday, August 25, 10:00 am - 1:00 pm
 
   Symbolic regression is a machine learning technique employed for learning mathematical equations directly from data. Mathematical equations capture both functional and causal relationships in the data. In addition, they are simple, compact, generalizable, and interpretable models, making them the best candidates for i) learning inherently transparent models and ii) boosting scientific discovery. Symbolic regression has received a growing interest since the last decade and is tackled using different approaches in supervised and unsupervised deep learning, thanks to the enormous progress achieved in deep learning in the last twenty years. 
