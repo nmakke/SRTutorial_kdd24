@@ -1,4 +1,4 @@
-<div style="background-color: midnightblue;">
+<div style="background-color: midnightblue; margin-left:0.0em; margin-right: 0.0em; color = white">
   <h1>Symbolic Regression:<br> A Pathway To Interpretability Towards Automated Scientific Discovery</h1>
 </div>
 
