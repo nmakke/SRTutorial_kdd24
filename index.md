@@ -1,7 +1,19 @@
-## test 
+### Tutorial at ACM KDD 2024, Barcelona. Sunday, August 25, 10:00 am - 1:00 pm
 
 ## Abstract 
-Symbolic regression is a machine learning technique employed for learning mathematical equations directly from data. Mathematical equations capture both functional and causal relationships in the data. In addition, they are simple, compact, generalizable, and interpretable models, making them the best candidates for i) learning inherently transparent models and ii) boosting scientific discovery. Symbolic regression has received a growing interest since the last decade and is tackled using different approaches in supervised and unsupervised deep learning, thanks to the enormous progress achieved in deep learning in the last twenty years. Symbolic regression remains underestimated in conference coverage as a primary form of interpretable AI and a potential candidate for automating scientific discovery. This tutorial overviews symbolic regression: problem definition, approaches, and key limitations, discusses why physical sciences are beneficial to symbolic regression, and explores possible future directions in this research area.
+Symbolic regression is a machine learning technique employed for learning mathematical equations directly from data. Mathematical equations capture both functional and causal relationships in the data. In addition, they are simple, compact, generalizable, and interpretable models, making them the best candidates for i) learning inherently transparent models and ii) boosting scientific discovery. Symbolic regression has received a growing interest since the last decade and is tackled using different approaches in supervised and unsupervised deep learning, thanks to the enormous progress achieved in deep learning in the last twenty years. Symbolic regression remains underestimated in conference coverage as a primary form of interpretable AI and a potential candidate for automating scientific discovery.
+
+## Tutorial Outline
+This tutorial overviews symbolic regression: problem definition, approaches, and key limitations, discusses why physical sciences are beneficial to symbolic regression, and explores possible future directions in this research area.
+1. Explainability versus Interpretability
+2. Advantages of mathematical equations
+3. Symbolic regression (SR):
+   1. problem definition & Key challenges
+   2. Approaches to solve SR
+   3. Applications
+4. SR Data benchmarks
+5. Symbolic regression and the physical sciences
+6. Current status of SR research field
   
 ## Presenters
 **Prof. Sanjay Chawla** <br>
@@ -10,5 +22,3 @@ data and anomaly detection. His work has received several best paper awards, mos
 
 **Dr. Nour Makke**
 She is a reseracher at Qatar Center for Artificial Intelligence with the Qatar Computing Research Institute. Her research work focuses on the development and application of AI-based methods to the disciplines of natural sciences, in particular physical scineces.
-
-## Tutorial Outline
