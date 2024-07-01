@@ -18,7 +18,7 @@ A friendly introduction and full review on Symbolic Regression can be found [her
 ## Presenters
 **Prof. Sanjay Chawla** <br>
 He is a Senior Research Director and leads the Qatar Center for Artificial Intelligence with the Qatar Computing Research Institute. His research work spans diverse areas of data mining and machine learning, including analysis of spatio-temporal
-data and anomaly detection. His work has received several best paper awards, most recently the most influential paper in the last ten years at PAKDD 2021. Before joining QCRI he was a Professor and Head of School of Information Technologies, University of Sydney, Australia. He was a PC-Cochair of ACM SIGKDD 2021.
+data and anomaly detection. His work has received several best paper awards, most recently the most influential paper in the last ten years at PAKDD 2021. Before joining QCRI, he was a Professor and Head of the School of Information Technologies at the University of Sydney, Australia. He was a PC-Cochair of ACM SIGKDD 2021.
 
 **Dr. Nour Makke** <br>
-She is a reseracher at Qatar Center for Artificial Intelligence with the Qatar Computing Research Institute. Her research work focuses on the development and application of AI-based methods to the disciplines of natural sciences, in particular physical scineces.
+She is a researcher at Qatar Center for Artificial Intelligence with the Qatar Computing Research Institute. Her research work focuses on the development and application of AI-based methods to the disciplines of natural sciences, particularly physical sciences, with an emphasis on symbolic regression within the context of interpretable AI.
