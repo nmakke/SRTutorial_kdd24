@@ -10,7 +10,7 @@ Support materials include [a friendly introduction and full review on Symbolic R
 3. Symbolic regression (SR):
    1. problem definition & Key challenges
    2. Approaches to solve SR
-   3. Applications
+   3. Applications of sr
 4. SR Data benchmarks
 5. Symbolic regression and the physical sciences
 6. Current status of SR research field
