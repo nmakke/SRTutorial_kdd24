@@ -2,7 +2,7 @@
 Symbolic regression is a machine learning technique employed for learning mathematical equations directly from data. Mathematical equations capture both functional and causal relationships in the data. In addition, they are simple, compact, generalizable, and interpretable models, making them the best candidates for i) learning inherently transparent models and ii) boosting scientific discovery. Symbolic regression has received a growing interest since the last decade and is tackled using different approaches in supervised and unsupervised deep learning, thanks to the enormous progress achieved in deep learning in the last twenty years. 
 This tutorial overviews symbolic regression: problem definition, approaches, and key limitations, discusses why physical sciences are beneficial to symbolic regression, and explores possible future directions in this research area.
 
-[A full review of Symbolic Regression](./https://link.springer.com/article/10.1007/s10462-023-10622-0) and [an online living review](https://nmakke.github.io/SR-LivingReview/).
+A friendly introduction and full review on Symbolic Regression can be found [here](./https://link.springer.com/article/10.1007/s10462-023-10622-0) and an online living review [](https://nmakke.github.io/SR-LivingReview/).
 
 ## Tutorial Outline
 1. Explainability versus Interpretability
