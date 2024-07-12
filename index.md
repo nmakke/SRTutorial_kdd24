@@ -5,15 +5,15 @@ This tutorial overviews symbolic regression: problem definition, approaches, and
 Support materials include [a friendly introduction and full review on Symbolic Regression](https://link.springer.com/article/10.1007/s10462-023-10622-0) and [an online living review](https://nmakke.github.io/SR-LivingReview/).
 
 ## Tutorial Outline
-1. Explainability versus Interpretability
-2. Advantages of mathematical equations
-3. Symbolic regression (SR):
-   1. problem definition & Key challenges
-   2. Approaches to solve SR
-   3. Applications of SR
-4. SR Data benchmarks
-5. Symbolic regression and the physical sciences
-6. Current status of SR research field
+1. Why black-box models?
+1. Explainable versus Interpretable AI
+2. Natural sciences versus ML
+3. Why Symbolic Regression?
+4. Symbolic regression (SR):
+   1. Problem definition
+   2. Benchmark datasets
+   3. Key challenges
+4. SR Approaches and applications
   
 ## Presenters
 **Prof. Sanjay Chawla** <br>
@@ -21,4 +21,4 @@ He is a Senior Research Director and leads the Qatar Center for Artificial Intel
 data and anomaly detection. His work has received several best paper awards, most recently the most influential paper in the last ten years at PAKDD 2021. Before joining QCRI, he was a Professor and Head of the School of Information Technologies at the University of Sydney, Australia. He was a PC-Cochair of ACM SIGKDD 2021.
 
 **Dr. Nour Makke** <br>
-She is a researcher at Qatar Center for Artificial Intelligence with the Qatar Computing Research Institute. Her research work focuses on the development and application of AI-based methods to the disciplines of natural sciences, particularly physical sciences, with an emphasis on symbolic regression within the context of interpretable AI.
+She is a researcher at Qatar Center for Artificial Intelligence with the Qatar Computing Research Institute. Her research work focuses on interpretable machine learning for scientific discovery in the physical sciences and the development and application of AI-based methods to these disciplines, with an emphasis on symbolic regression within the context of interpretable AI.
